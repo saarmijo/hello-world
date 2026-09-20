@@ -6,9 +6,9 @@ I created a simple program that displays "Hello World" when it is run.
 
 The purpose of this software is to practice creating, running, and sharing a basic Python program.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+You can watch a demo of my software here:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_TPAfjTrrTc)
 
 # Development Environment
 
